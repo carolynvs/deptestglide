@@ -1,0 +1,4 @@
+package: github.com/carolynvs/deptest-glide
+import:
+- package: github.com/sdboyer/deptest
+  version: v0.8.1
